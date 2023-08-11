@@ -14,3 +14,6 @@ STEP 5: CLICK ON STOP BUTTON WHENEVER YOU WANT TO STOP TALKING TO THE AI (STOP G
 { In main file, I have written the code for my assistant using openai and python}
 { In MY_AI.py file, there is a code for my GUI, just a design for my interface}
 { The main file is MyAssistant.py}
+
+
+TO RUN THE CODE- CREATE YOUR OWN API KEY AND ADD IT TO THE CODE. DONOT TRY TO USE MY API KEY AS IT HAS BEEN DISABLED.
